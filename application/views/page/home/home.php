@@ -7,6 +7,11 @@
 
 <div class="row">
 	<br>
+		<div class="col-md-12">
+			<div class=" boxpic">
+				<img src="http://placehold.it/1200x200" alt="...">
+			</div>
+		</div>
 		<div class="col-md-6"> 
 			<?php $this->view('include/slide');?>	
 		</div>
