@@ -1,4 +1,10 @@
 @CHARSET "UTF-8";
+::selection{ background-color: #000; color: white; }
+::moz-selection{ background-color: #E13300; color: white; }
+::webkit-selection{ background-color: #E13300; color: white; }
+
+ .sl{font-size:10px;}
+ 
 #loader {
 	position: fixed;
 	top: 0;

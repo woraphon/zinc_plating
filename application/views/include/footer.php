@@ -1,20 +1,18 @@
-	<div class="panel panel-black">  		
+	<hr>
+	<!-- open footer -->
+	<div class="panel ">  		
   		<div class="panel-heading">
-  		<!-- open footer -->
-  		
   			<div class="row">
-  				
   				<div class="col-md-12">
-  				<div class="">
-        		   <p align="center">@Copyright by Design2house.com</p>
-        		</div>
+  					<div class="sl">
+  						<p align="center"><strong class="">Zinc Plating Co.,Ltd.</strong> &nbsp;&nbsp;Office - 518/5, 6 floor., Maneeya Center Bldg., Ploenchit Road, Lumpini, Patumwan, Bangkok 10330 Thailand</p>
+        		   		<p align="center">@Copyright by <a style="text-decoration:none" href="http://www.design2house.com">Design2house.com</a></p>
+        			</div>
   				</div>
-  			
   			</div>
-  		
-  		<!-- close footer -->
   		</div>
-	</div>
+	</div> 
+	<!-- close footer -->
 	
 </div>	<!-- close container -->
 
