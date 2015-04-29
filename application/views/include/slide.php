@@ -9,19 +9,19 @@
 	<!-- Wrapper for slides -->
 	<div class="carousel-inner">
     <div class="item active">
-	      	<img src="http://placehold.it/640x340" alt="...">
+	      	<img src="http://placehold.it/1500x400" alt="...">
 	   		<div class="carousel-caption">
 	      		<h3>Caption Text</h3>
 	   		</div>
 	</div>
 	<div class="item">
-	      	<img src="http://placehold.it/640x340" alt="...">
+	      	<img src="http://placehold.it/1500x400" alt="...">
 	    	<div class="carousel-caption">
 	      		<h3>Caption Text</h3>
 	    	</div>
 	</div>
 	<div class="item">
-	      	<img src="http://placehold.it/640x340" alt="...">
+	      	<img src="http://placehold.it/1500x400" alt="...">
 	    	<div class="carousel-caption">
 	      		<h3>Caption Text</h3>
 	    	</div>
